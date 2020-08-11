@@ -1,0 +1,24 @@
+
+mkdir file
+
+cd file
+
+git init
+
+* create/move files into directory
+
+git status
+
+git add file
+
+git commit -m "message"
+
+*** linking git to github
+
+git config --global user.username lumberJackson
+
+*** create new repository online and copy link
+
+git remote add origin (link)
+
+git push origin master
